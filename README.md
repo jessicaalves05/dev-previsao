@@ -7,8 +7,10 @@ O site foi projetado para se ajustar automaticamente a diferentes tamanhos de te
 <a href="https://jazzy-selkie-385ea5.netlify.app">clique aqui</a>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/130418259/233878986-dbda1022-2fc4-4276-8d71-726392062cf2.png" width="400" />
+<img src="https://user-images.githubusercontent.com/130418259/233878986-dbda1022-2fc4-4276-8d71-726392062cf2.png" width="400"  />
 <br>
 
 
 <p>Este projeto foi desenvolvido como uma introdução à programação web e ao desenvolvimento de sites.Se tiver alguma sugestão de melhoria ou feedback, não hesite em entrar em contato!
+
+  <a href="https://www.instagram.com/jhessykthebest09/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
